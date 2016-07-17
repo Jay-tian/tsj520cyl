@@ -1,0 +1,56 @@
+[ 2016-06-27T23:14:06+08:00 ] 127.0.0.1 /dashboard/javascripts/modernizr.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+ERR: 无法加载模块:Dashboard
+
+[ 2016-06-27T23:14:06+08:00 ] 127.0.0.1 /dashboard/javascripts/all.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+ERR: 无法加载模块:Dashboard
+
+[ 2016-06-27T23:14:06+08:00 ] 127.0.0.1 /dashboard/images/xampp-logo.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+ERR: 无法加载模块:Dashboard
+
+[ 2016-06-27T23:14:06+08:00 ] 127.0.0.1 /dashboard/stylesheets/normalize.css
+NOTIC: [2] mkdir(): File exists C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Think\Build.class.php 第 82 行.
+NOTIC: [2] mkdir(): File exists C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Think\Build.class.php 第 82 行.
+NOTIC: [2] mkdir(): File exists C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Think\Build.class.php 第 82 行.
+NOTIC: [2] mkdir(): File exists C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Think\Build.class.php 第 82 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+ERR: 无法加载模块:Dashboard
+
+[ 2016-06-27T23:14:06+08:00 ] 127.0.0.1 /dashboard/stylesheets/all.css
+NOTIC: [2] mkdir(): File exists C:\xampp\htdocs\thinkphp\ThinkPHP\Library\Think\Build.class.php 第 82 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+ERR: 无法加载模块:Dashboard
+
+[ 2016-06-27T23:14:06+08:00 ] 127.0.0.1 /dashboard/images/bitnami-xampp.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2016-06-27T23:14:06+08:00 ] 127.0.0.1 /dashboard/images/fastly-logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2016-06-27T23:14:06+08:00 ] 127.0.0.1 /dashboard/images/xampp-logo.svg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 无法加载模块:Dashboard
+
+[ 2016-06-27T23:14:09+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001406s ]
+

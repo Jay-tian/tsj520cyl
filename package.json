@@ -1,0 +1,26 @@
+{
+  "name": "tsj",
+  "version": "1.0.0",
+  "description": "tsj",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "mysql": "^2.11.1",
+    "pug": "^2.0.0-beta3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/top-think/thinkphp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/top-think/thinkphp/issues"
+  },
+  "homepage": "https://github.com/top-think/thinkphp#readme"
+}
