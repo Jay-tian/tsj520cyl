@@ -7,6 +7,9 @@ class IndexController extends Controller
 {
     public function indexAction()
     {
+    	 // $user = D('user');
+    	 // dump($user->select());
+    	 // exit();	
     	$this->display();
     }
 }
