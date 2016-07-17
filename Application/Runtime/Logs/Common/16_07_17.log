@@ -9,3 +9,185 @@ INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
 INFO: [ app_init ] --END-- [ RunTime:0.001146s ]
 ERR: 无法加载模块:Sdf
 
+[ 2016-07-17T14:28:18+08:00 ] 127.0.0.1 /assets/css/hz-font/iconfont.css?2.6.17.2.2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-07-17T14:28:18+08:00 ] 127.0.0.1 /assets/css/howzhi.css?2.6.17.2.2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-07-17T14:28:18+08:00 ] 127.0.0.1 /assets/v2/bootstrap/css/bootstrap.css?2.6.17.2.2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001116s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-07-17T14:28:18+08:00 ] 127.0.0.1 /themes/howzhi/css/index.css?2.6.17.2.2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000882s ]
+ERR: 无法加载模块:Themes
+
+[ 2016-07-17T14:29:17+08:00 ] 127.0.0.1 /assets/css/howzhi.css?2.6.17.2.2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-07-17T14:29:17+08:00 ] 127.0.0.1 /assets/css/hz-font/iconfont.css?2.6.17.2.2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-07-17T14:29:17+08:00 ] 127.0.0.1 /assets/v2/bootstrap/css/bootstrap.css?2.6.17.2.2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-07-17T14:29:17+08:00 ] 127.0.0.1 /themes/howzhi/css/index.css?2.6.17.2.2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+ERR: 无法加载模块:Themes
+
+[ 2016-07-17T14:33:10+08:00 ] 127.0.0.1 /assets/v2/bootstrap/css/bootstrap.css?2.6.17.2.2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-07-17T14:47:30+08:00 ] 127.0.0.1 /themes/howzhi/css/index.css?2.6.17.2.2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001109s ]
+ERR: 无法加载模块:Themes
+
+[ 2016-07-17T14:47:30+08:00 ] 127.0.0.1 /assets/v2/bootstrap/css/bootstrap.css?2.6.17.2.2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+ERR: 无法加载模块:Assets
+
+[ 2016-07-17T14:48:06+08:00 ] 127.0.0.1 /themes/howzhi/css/index.css?2.6.17.2.2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000989s ]
+ERR: 无法加载模块:Themes
+
+[ 2016-07-17T14:48:06+08:00 ] 127.0.0.1 /%7B%20/Public%20%7D%20/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+ERR: 无法加载模块:{
+
+[ 2016-07-17T14:48:22+08:00 ] 127.0.0.1 /themes/howzhi/css/index.css?2.6.17.2.2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+ERR: 无法加载模块:Themes
+
+[ 2016-07-17T14:49:25+08:00 ] 127.0.0.1 /themes/howzhi/css/index.css?2.6.17.2.2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+ERR: 无法加载模块:Themes
+
+[ 2016-07-17T15:36:39+08:00 ] 127.0.0.1 /Public/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-17T16:17:42+08:00 ] 127.0.0.1 /Public/img/banner.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000898s ]
+
+[ 2016-07-17T17:06:12+08:00 ] 127.0.0.1 /assets/img/default/avatar.png?2.6.17.2.2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+
+[ 2016-07-17T17:09:08+08:00 ] 127.0.0.1 /Public/img/autor.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+
+[ 2016-07-17T17:09:11+08:00 ] 127.0.0.1 /Public/img/autor.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+
+[ 2016-07-17T17:09:42+08:00 ] 127.0.0.1 /Public/img/autor.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000861s ]
+
+[ 2016-07-17T17:09:43+08:00 ] 127.0.0.1 /Public/img/autor.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+
+[ 2016-07-17T17:10:00+08:00 ] 127.0.0.1 /Public/img/banner.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2016-07-17T17:10:00+08:00 ] 127.0.0.1 /Public/img/banner.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+
+[ 2016-07-17T17:10:57+08:00 ] 127.0.0.1 /Public/img/autor.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000916s ]
+
+[ 2016-07-17T17:10:57+08:00 ] 127.0.0.1 /Public/img/autor.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001844s ]
+
+[ 2016-07-17T17:11:08+08:00 ] 127.0.0.1 /Public/img/autor.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2016-07-17T17:11:09+08:00 ] 127.0.0.1 /Public/img/autor.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+
+[ 2016-07-17T17:11:11+08:00 ] 127.0.0.1 /Public/img/autor.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+
+[ 2016-07-17T17:11:11+08:00 ] 127.0.0.1 /Public/img/autor.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2016-07-17T17:11:30+08:00 ] 127.0.0.1 /Public/img/autor.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001404s ]
+
+[ 2016-07-17T17:12:20+08:00 ] 127.0.0.1 /PUBLIC/img/autor.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+
+[ 2016-07-17T17:17:37+08:00 ] 127.0.0.1 /Public/img/autor.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000794s ]
+ERR: 无法加载模块:Public
+

@@ -1,0 +1,123 @@
+.es-box-shadow {
+  -webkit-box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+}
+.avatar-xxs {
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  width: 20px !important;
+  height: 20px !important;
+}
+.avatar-xs {
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  width: 30px !important;
+  height: 30px !important;
+}
+.avatar-sm {
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  width: 40px !important;
+  height: 40px !important;
+}
+.avatar-md {
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  width: 60px !important;
+  height: 60px !important;
+}
+.avatar-lg {
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  width: 120px !important;
+  height: 120px !important;
+}
+body {
+  background: #ebebeb;
+  color: #666;
+  font-family: 'Helvetica Neue', Helvetica, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', '微软雅黑', Arial, sans-serif;
+}
+a {
+  color: #5ac6e3;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+a:hover {
+  color: #2eb7dc;
+}
+.main-navigation {
+  background: #fff;
+  box-shadow: 0px 2px 13px #e1e1e1;
+  margin-bottom: 30px;
+}
+.main-navigation li {
+  padding: 15px 25px;
+  float: left;
+  list-style: none;
+}
+.main-navigation li a {
+  color: #666;
+}
+.main-navigation li.act {
+  border-bottom: 2px solid #5ac6e3;
+  cursor: default;
+}
+.main-navigation li.act a {
+  color: #5ac6e3;
+}
+.index .banner {
+  height: 200px;
+  background: url(/Public/img/banner2.jpg) center center;
+  position: relative;
+}
+.index .banner h1 {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  margin-top: -10px;
+  text-align: center;
+  color: #fff;
+  font-size: 35px;
+  letter-spacing: 2px;
+}
+.artcile {
+  background: #fff;
+  padding: 25px;
+  text-align: center;
+}
+.artcile .autor {
+  margin-bottom: 15px;
+}
+.artcile .autor time {
+  color: #ccc;
+  margin-left: 5px;
+}
+.artcile h1 {
+  margin: 0 0 15px 0;
+}
+.artcile img {
+  max-width: 100%;
+}
+.artcile .sub {
+  color: #919191;
+  font-size: 18px;
+  text-align: left;
+  margin: 20px 0;
+}
+.attend {
+  background: #fff;
+}
+.attend .author {
+  padding: 20px 0;
+}
+.attend .person-info {
+  padding-bottom: 20px;
+}
